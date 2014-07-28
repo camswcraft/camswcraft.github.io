@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://camswcraft.github.io/sitemap.xml 
