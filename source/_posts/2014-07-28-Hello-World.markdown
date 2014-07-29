@@ -7,8 +7,6 @@ comments: true
 categories:
 ---
 
-# Hello world!
-
 Welcome to the new Cambridge Software Craftsmanship Community blog. The purpose of this blog is to document the meetings
 of the Community, including useful outcomes and tidbits from our round-tables, notes and documentation from the
 workshops.
