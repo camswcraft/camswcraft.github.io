@@ -27,5 +27,5 @@ Also be sure to check out the [Blogging Basics](http://octopress.org/docs/bloggi
 ## Contributing your post
 
 1. Create a pull request from the `source` branch on your fork to the `source` branch on the parent repository.
-***Note:** you will need to set the destination branch manually when creating the pull request, as `source` is not the
-default branch on the repository.
+**Note:** *you will need to set the destination branch manually when creating the pull request, as `source` is not the
+default branch on the repository.*
