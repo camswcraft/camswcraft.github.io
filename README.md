@@ -20,6 +20,7 @@ This blog is open-source, and community-editable. I guess it's a bit like a wiki
 2. Edit the generated file in your editor of choice.
 3. Include your name as the author of the post in the [YAML front matter](http://jekyllrb.com/docs/frontmatter/)
 4. Write your post! :smile:
+5. Preview your post by running `rake preview`, and navigating to `http://localhost:4000` in a browser.
 
 Also be sure to check out the [Blogging Basics](http://octopress.org/docs/blogging/) page on Octopress's documentation.
 
