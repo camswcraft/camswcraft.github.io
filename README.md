@@ -5,7 +5,7 @@ This blog is open-source, and community-editable. I guess it's a bit like a wiki
 ## Pre-requisites
 
 0. [Fork this repository](https://github.com/camswcraft/camswcraft.github.io/fork) on GitHub.
-1. Install Ruby 1.9.3 or higher. (1.9.3 is recommended on Windows).
+1. Install Ruby 1.9.3 or higher. (1.9.3 is recommended if you're [running Ruby on Windows](http://rubyinstaller.org/downloads/)).
 2. Ensure you can run `gem` and `rake` from the command line.
 
 ## Getting started
