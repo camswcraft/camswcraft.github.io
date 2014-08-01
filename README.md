@@ -13,8 +13,6 @@ This blog is open-source, and community-editable. I guess it's a bit like a wiki
 1. Clone your fork of the repository to your local machine
 2. To install the necessary dependencies for Octopress, run `gem install bundler` followed by `bundle install`
 3. Run `rake install` to build Octopress
-4. Run `rake setup_github_pages` to configure your local environment for GitHub pages.
-Ensure you supply https://github.com/camswcraft/camswcraft.github.io.git as the URL.
 
 ## Writing a post
 
