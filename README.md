@@ -20,3 +20,13 @@ Ensure you supply https://github.com/camswcraft/camswcraft.github.io.git as the 
 
 1. At the console, type `rake new_post["Post title"]`.
 2. Edit the generated file in your editor of choice.
+3. Include your name as the author of the post in the [YAML front matter](http://jekyllrb.com/docs/frontmatter/)
+4. Write your post! :smile:
+
+Also be sure to check out the [Blogging Basics](http://octopress.org/docs/blogging/) page on Octopress's documentation.
+
+## Contributing your post
+
+1. Create a pull request from the `source` branch on your fork to the `source` branch on the parent repository.
+***Note:** you will need to set the destination branch manually when creating the pull request, as `source` is not the
+default branch on the repository.
