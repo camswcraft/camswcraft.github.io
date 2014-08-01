@@ -28,6 +28,11 @@ interactive approach to answering the questions, were in second place. Luckily t
 The third round upped the stakes further: now we had to handle non-maths questions, like "Who played James Bond in Dr.
 No?". This stretched even the hardiest of solutions.
 
+Overall it was a great workshop, which everyone attending enjoyed very much. Unsurprisingly the Wolfram Alpha team
+scored the most points, and with a large lead. There was strong competition between one implementation that always
+returned *something*, whether or not it was correct, and the team calculating the answers by hand. If you get a chance
+to participate in an Extreme Startup workshop, I highly recommend you take it!
+
 ## Retrospective
 
 Interestingly, only two teams wrote tests for their solution, and no teams used any kind of source control. Of the
