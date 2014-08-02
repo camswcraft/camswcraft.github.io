@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://camswcraft.github.io/blog/2014/08/02/summer-event-open-cambridge/</loc>
+    <lastmod>2014-08-02T21:00:32+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://camswcraft.github.io/blog/2014/07/29/july-2014-workshop-extreme-startup-with-carlos-fernandez-garcia-and-emanuele-blanco/</loc>
     <lastmod>2014-07-29T19:17:56+01:00</lastmod>
     <priority>0.8</priority>
@@ -17,14 +23,14 @@
   
   <url>
     <loc>http://camswcraft.github.io/blog/archives/</loc>
-    <lastmod>2014-08-01T12:32:17+01:00</lastmod>
+    <lastmod>2014-08-02T22:00:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://camswcraft.github.io/</loc>
-    <lastmod>2014-08-01T12:32:17+01:00</lastmod>
+    <lastmod>2014-08-02T22:00:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
